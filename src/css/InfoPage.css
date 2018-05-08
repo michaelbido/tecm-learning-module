@@ -1,0 +1,25 @@
+.InfoPage {
+    background: white;
+    max-width: 740px;
+    width: 100%;
+    padding: 30px;
+    margin: 0 auto;
+    text-align: left;
+    box-sizing: border-box;
+}
+
+.InfoPage h2 {
+    font-weight: 350;
+}
+
+.InfoPage button {
+    display: inline-block;
+    border: none;
+    color: white;
+    background-color: green;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 16px;
+}

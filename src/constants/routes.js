@@ -1,0 +1,11 @@
+export const HOME = "/";
+export const BASICS = '/basics';
+export const BASICS_QUIZ = '/basics/quiz'
+export const INHERITANCE = "/inheritance";
+export const INHERITANCE_QUIZ = "/inheritance/quiz";
+export const POLYMORPHISM = "/polymorphism";
+export const POLYMORPHISM_QUIZ = "/polymorphism/quiz";
+export const ENCAPSULATION = "/encapsulation";
+export const ENCAPSULATION_QUIZ = "/encapsulation/quiz";
+export const ABSTRACTION = "/abstraction";
+export const ABSTRACTION_QUIZ = "/abstraction/quiz";
